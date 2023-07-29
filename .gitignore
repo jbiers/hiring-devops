@@ -1,4 +1,5 @@
 nodejs-mongodb-demo.iml
+/.terraform/
 /.idea/
 /node_modules/
 npm-debug.log
